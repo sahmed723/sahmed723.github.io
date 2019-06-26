@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Shafay Ahmed",
+    "occupation":"Software Engineer",
+    "description":"Strong business and software development professional with a Bachelor of Science - BS focused in Computer Science from Georgia Institute of Technology. ",
+    "image":"profilepic.png",
+    "bio":"Experienced Co-Founder with a demonstrated history of working in the computer software industry. Skilled in NodeJS, React, Java, and python.",
+    "contactmessage":"Don't be afraid to reach out, I don't bite!",
+    "email": "shafay.ahmed98@gmail.com",
+    "phone": "404-918-1766",
+    "address":{
+      "street":"944 Autumn Path Way",
+      "city":"Snellville",
+      "state":"Georgia",
+      "zip": "30078"
+    },
+    "website": "http://www.shafayahmed.com",
+    "resumedownload":"http://shafayahmed.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shafay-ahmed-88985397/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/shafay_a",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/sahmed723",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"August 2016 - May 2020",
+        "description":"Georgia Tech provides a technologically focused education to more than 25,000 undergraduate and graduate students in fields ranging from engineering, computing, and sciences, to business, design, and liberal arts."
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"First Data Corporation",
+        "title":"Software Engineer Intern",
+        "years":"May 2019 - August 2019",
+        "description":"Worked on a Single Page Application with React and Node for 6,000 employees for First Data Client Services. Worked with a team of Engineers and Project Managers over the 10 weeks to complete sprints and reach deadlines."
+      },
+      {
+        "company":"Medulla Analytics",
+        "title":"Co-Founder",
+        "years":"January 2019 - May 2019",
+        "description":"Created a NLP application to analyze different forms of Social Media for stock influencers. In addition, created a platform to display data for clients for investment purposes."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Medulla Analytics",
+        "category":"My startup that I teamed up with CreateX from Georgia Tech",
+        "image":"medullaanalytics.png",
+        "url":"https://www.medullaanalytics.com/"
+      },
+      {
+        "title":"First Data Merchant Star Access Web Application",
+        "category":"The web application made for First Data Client Services used by 6,000 Employees at First Data",
+        "image":"FD.png",
+        "url":"https://imgur.com/a/vYunv9x"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Hard working, smart, and ambitious individual who works his hardest to complete the task at hand and does not stop until he finds the answer",
+        "user":"Aaron Brownell - Sr. Software Engineer at First Data"
+      },
+      {
+        "text":"Inspirational in a work environment and always puts a smile on peoples faces.",
+        "user":"Amir Suhail - Co-Founder at Medulla Analytics"
+      }
+    ]
+  }
+}
